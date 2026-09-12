@@ -28,5 +28,11 @@
         "key": "gaurav_1_DAY_709739",
         "expirydate": "13-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cc910cf300451481",
+        "key": "1_DAY",
+        "expirydate": "13-09-2026",
+        "Allowoffline": false
     }
 ]
